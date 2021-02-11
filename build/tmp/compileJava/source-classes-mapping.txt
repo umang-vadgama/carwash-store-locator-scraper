@@ -1,0 +1,10 @@
+com/swt/init/service/Scrapper.java
+ com.swt.init.service.Scrapper
+com/swt/init/properties/AppProperties.java
+ com.swt.init.properties.AppProperties
+com/swt/init/controller/Controller.java
+ com.swt.init.controller.Controller
+com/swt/init/model/Details.java
+ com.swt.init.model.Details
+com/swt/init/RunProcess.java
+ com.swt.init.RunProcess
